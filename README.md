@@ -1,5 +1,5 @@
 # data-wrangling
-This project is the 7th project of data analyst nanodegree program from udacity , it’s about wrangling data steps ( gathering , assessing , then cleaning ) . The data is archived data from WeRateDogs twitter account , and the data is not ready , that is gathered in three different ways as the first step of the project , this data includes :
+This project is the 7th project of data analyst nanodegree program from udacity, it’s about wrangling data steps ( gathering , assessing , then cleaning ) . The data is archived data from ## WeRateDogs ## twitter account , and the data is not ready , that is gathered in three different ways as the first step of the project , this data includes :
 
 1. Archive data: This data file is given in the classroom and downloaded manually. This file is the archive of WeRateDogs contains data about the account tweets with 2356 row (tweet).
 2. image predictions data: The given file is in a link to download programmatically using python . This file contains predictions of images(dogs ) using neural network that can classify breeds of dogs.
